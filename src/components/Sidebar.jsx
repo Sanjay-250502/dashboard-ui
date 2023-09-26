@@ -10,7 +10,7 @@ function Sidebar() {
         <div className="d-flex flex-column flex-shrink-0 p-3 ps-2 container sidebar" style={{ width: "14rem", height: "100%" }}>
           <a href="/"
             className="d-flex align-items-center mb-3 mb-md-0 me-md-auto link-body-emphasis text-decoration-none">
-            <span className="fs-4 logo mb-5">Guvi Sales</span>
+            <span className="fs-4 logo mb-5">Medico Sales</span>
           </a>
 
           <ul className="nav nav-pills flex-column mb-auto">
