@@ -22,7 +22,7 @@ function Sidebar() {
 
 
           <a href="#" className="nav-link link-body-emphasis text-muted ps-4 pb-3">
-            <img src="./help.svg" alt="" />
+            <img src="./help.svg" alt="Help icon" className='help-icon'/>
             Help
           </a>
         </div>

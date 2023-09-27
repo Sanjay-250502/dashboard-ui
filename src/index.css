@@ -92,8 +92,11 @@ body {
   margin-right: 10px;
 }
 
+.help-icon{
+  margin-right: 10px;
+}
+
 .active-line{
   position: relative;
   right: 2.5em;
-
 }
