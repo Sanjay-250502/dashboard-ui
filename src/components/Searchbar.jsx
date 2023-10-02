@@ -9,10 +9,10 @@ function Searchbar() {
                     <div className="row">
                         <div className="col-md-7">
                             <div className="input-group mb-3">
-                                <span className="input-group-text search-icon" id="basic-addon1"><img
-                                    src="./search-normal.svg" alt="" /></span>
+                                <span className="input-group-text search-icon" id="basic-addon1">
+                                    <img src="./search-normal.svg" alt="search logo" /></span>   
                                 <input type="text" className="form-control search-bar" placeholder="Search"
-                                    aria-label="Username" aria-describedby="basic-addon1" />
+                                    aria-label="Username"/>
                             </div>
                         </div>
                     </div>
@@ -20,9 +20,9 @@ function Searchbar() {
 
 
                 <button type="button" className="btn border-black position-relative">
-                    <img src="./notification-bing.svg" alt="" />
+                    <img src="./notification-bing.svg" alt="notification-logo" />
                     <span className="position-absolute top-0 start-100 translate-middle badge ">
-                        <img src="./Ellipse 1.svg" alt="" />
+                        <img src="./yellowcircle.svg" alt="ellipse logo" />
                     </span>
                 </button>
             </div>
